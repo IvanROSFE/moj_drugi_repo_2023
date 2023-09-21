@@ -1,4 +1,9 @@
+En drug stavek. 
+
 # Naslov
 ## Naslov
-Text
-Text
+Se en vrinjen stavek.
+1. Text
+2. Text
+
+En stavek.
